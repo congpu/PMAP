@@ -1,6 +1,6 @@
 This repository contains the source code and security verification programs of **PMAP**. Please cite the following published paper when referring to this repository.
 
-C. Pu, A. Wall, K.K.R Choo, I. Ahmed, and S. Lim, "A Lightweight and Privacy-Preserving Mutual Authentication and Key Agreement Protocol for Internet of Drones Environment," IEEE Internet of Things Journal, March 27, 2022. 
+C. Pu, A. Wall, K.K.R Choo, I. Ahmed, and S. Lim, "A Lightweight and Privacy-Preserving Mutual Authentication and Key Agreement Protocol for Internet of Drones Environment," IEEE Internet of Things Journal, pp. 1-1, 2022. 
 
 BibTeX<br/>
 @article{pu2022PMAP,<br/>
