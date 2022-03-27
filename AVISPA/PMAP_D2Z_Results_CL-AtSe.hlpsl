@@ -1,0 +1,24 @@
+
+SUMMARY
+  SAFE
+
+DETAILS
+  BOUNDED_NUMBER_OF_SESSIONS
+  TYPED_MODEL
+
+PROTOCOL
+  /home/span/span/testsuite/results/PMAP.if
+
+GOAL
+  As Specified
+
+BACKEND
+  CL-AtSe
+
+STATISTICS
+
+  Analysed   : 144 states
+  Reachable  : 108 states
+  Translation: 0.02 seconds
+  Computation: 0.01 seconds
+
