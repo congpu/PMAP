@@ -1,0 +1,24 @@
+
+SUMMARY
+  SAFE
+
+DETAILS
+  BOUNDED_NUMBER_OF_SESSIONS
+  TYPED_MODEL
+
+PROTOCOL
+  /home/span/span/testsuite/results/PMAP_D2D.if
+
+GOAL
+  As Specified
+
+BACKEND
+  CL-AtSe
+
+STATISTICS
+
+  Analysed   : 27670 states
+  Reachable  : 15060 states
+  Translation: 0.07 seconds
+  Computation: 8.68 seconds
+

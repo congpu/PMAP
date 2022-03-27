@@ -1,0 +1,18 @@
+% OFMC
+% Version of 2006/02/13
+SUMMARY
+  SAFE
+DETAILS
+  BOUNDED_NUMBER_OF_SESSIONS
+PROTOCOL
+  /home/span/span/testsuite/results/PMAP_D2D.if
+GOAL
+  as_specified
+BACKEND
+  OFMC
+COMMENTS
+STATISTICS
+  parseTime: 0.00s
+  searchTime: 96.94s
+  visitedNodes: 0 nodes
+  depth: 1000000 plies
